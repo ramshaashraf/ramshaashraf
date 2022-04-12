@@ -1,16 +1,17 @@
-### Hi there 👋
+ # Hello👋, This is RZA
+ ## **Web Development Enthusiast 🌐 | Application Development 📱**
+ 
 
-<!--
-**rza-777/rza-777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## Github Stats
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| <img src="https://github-readme-stats.vercel.app/api?username=rza-777&&show_icons=true&count_private=true&theme=github_dark">|<img src="https://github-readme-streak-stats.herokuapp.com/?user=rza-777&theme=blueberry_duo"/> |
+| ------------| ------------- |
+
+[![Ramsha's github activity graph](https://activity-graph.herokuapp.com/graph?username=rza-777&theme=react-dark	)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+###  *Designed by -*
+
+### *[@ramsha](https://www.github.com/rza-777)* 
+
+ 
