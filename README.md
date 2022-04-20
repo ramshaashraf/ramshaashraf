@@ -1,8 +1,8 @@
  # Hello👋, This is Ramsha Ashraf!
- ## **Web Development Enthusiast 🌐 | Application Development 📱**
+ ## **Web Development 🌐 | Application Development 📱**
  
  ## **Skills** ⚒️
-### *C, C++, Python, Java, HTML5, CSS, Javascript*
+### *C, C++, Python, Java, SQL, HTML*
 
   
 ##  **About Me** 🧑‍💻
@@ -21,10 +21,3 @@
 ###  *Designed by -*
 
 ### *[@ramsha](https://www.github.com/ramshaashraf)* 
-
- 
-
-
-
-
-
