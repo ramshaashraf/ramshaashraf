@@ -5,7 +5,7 @@
 ### *C, C++, Python, Java, SQL, HTML*
 
   
-##  **About Me** 🧑‍💻
+## 💻
 ### *I'd like to connect with you on [LinkedIn](https://www.linkedin.com/in/ramsha-ashraf-8a0668232)*
 
 
