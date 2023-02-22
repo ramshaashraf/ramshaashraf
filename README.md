@@ -2,7 +2,7 @@
  ## **Web Development 🌐 | Application Development 📱**
  
  ## **Skills** ⚒️
-### *C, C++, Python, Java, SQL, HTML*
+### *C, C++, Python, Java, SQL*
 
   
 ## 💻
