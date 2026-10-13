@@ -1,23 +1,53 @@
- # Hello👋, This is Ramsha Ashraf!
- ## **Web Development 🌐 | Application Development 📱**
- 
- ## **Skills** ⚒️
-### *C, C++, Python, Java, SQL*
+<div>
+<img src="./assets/happy-cat.gif" width="120" align="right" alt="happy cat" />
 
-  
-## 💻
-### *I'd like to connect with you on [LinkedIn](https://www.linkedin.com/in/ramsha-ashraf-8a0668232)*
+# hey, i'm ramsha!
+
+### software engineer · backend & AI agents
+
+i build things that make complicated systems a little less complicated.
+
+most days, that means working with **AI agents and backend systems**.
+
+i like understanding how things work, whether that's the thought behind a well-designed system, an LLM's reasoning, or the questionable decisions of a dostoevsky protagonist.
+
+**currently interested in:** AI agents, backend engineering, automation, and building things that are genuinely useful.
+</div>
+
+---
+
+### `~/what-i-do`
+
+- 💻 **backend engineering** — Java, Quarkus, Python
+- 🧠 **AI & agentic systems** — LLMs, tool calling, orchestration, evaluation and observability
+- 🗄️ **data & infrastructure** — PostgreSQL, MongoDB, Google Cloud
+- ⚒️ **developer tooling** — workflow automation, integrations and bots
+- ⭐️ **occasionally switching syntax** — Javascript when the problem calls for it
+- 🧩 **always learning** — currently curious about design patterns, and the engineering decisions behind great software
+
+i care about the unglamorous bits, too ~ failure analysis, observability, edge cases, maintainability, and figuring out why something broke at 2 pm instead of 2 am.
+
+---
+
+### `~/outside-the-terminal`
+
+🍜 hopped up on iced coffee and ramen.
+
+📚 reading franz kafka and fyodor dostoevsky because apparently regular overthinking wasn't enough.
+
+🎬 romcom enthusiast. dad-joke appreciator. ferrari comeback believer. the comeback is coming. any day now. probably.
+
+🐈 cat person. no further elaboration necessary.
+
+---
+
+### `~/connect`
+
+ [LinkedIn](https://www.linkedin.com/ramsha-ashraf) [Twitter/X](https://x.com/ramshaashraf777)
 
 
+<sub>made with curiosity, caffeine, and an unreasonable number of browser tabs.</sub>
 
-## Github Status
-
-| <img src="https://github-readme-stats.vercel.app/api?username=ramshaashraf&&show_icons=true&count_private=true&theme=github_dark">|<img src="https://github-readme-streak-stats.herokuapp.com/?user=ramshaashraf&theme=blueberry_duo"/> |
-| ------------| ------------- |
-
-
-[![Ramsha's github activity graph](https://activity-graph.herokuapp.com/graph?username=ramshaashraf&theme=react-dark	)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-###  *Designed by -*
-
-### *[@ramsha](https://www.github.com/ramshaashraf)* 
+<div align="center">
+  <img src="./assets/cat-hopping.gif" height="100" alt="cat hopping" />
+</div>
