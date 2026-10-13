@@ -1,9 +1,9 @@
 <div>
 <img src="./assets/happy-cat.gif" width="120" align="right" alt="happy cat" />
 
-# hey, i'm ramsha!
+### hey, i'm ramsha!
 
-### software engineer · backend & AI agents
+**software engineer · backend & AI agents**
 
 i build things that make complicated systems a little less complicated.
 
