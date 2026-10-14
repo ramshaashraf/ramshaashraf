@@ -3,7 +3,7 @@
 
 ### hey, i'm ramsha!
 
-**software engineer · backend & AI agents**
+**software engineer**
 
 i build things that make complicated systems a little less complicated.
 
