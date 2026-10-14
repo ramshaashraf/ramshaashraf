@@ -33,9 +33,7 @@ i care about the unglamorous bits, too ~ failure analysis, observability, edge c
 
 🍜 hopped up on iced coffee and ramen.
 
-📚 reading franz kafka and fyodor dostoevsky because apparently regular overthinking wasn't enough.
-
-🎬 romcom enthusiast. dad-joke appreciator. ferrari comeback believer. the comeback is coming. any day now. probably.
+💫 avid reader. romcom enthusiast. dad-joke appreciator. ferrari comeback believer. the comeback is coming. any day now. probably.
 
 🐈 cat person. no further elaboration necessary.
 
